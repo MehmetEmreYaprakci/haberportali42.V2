@@ -1,0 +1,503 @@
+[
+  {
+    "name": "TRT Son Dakika",
+    "url": "https://www.trthaber.com/sondakika_articles.rss",
+    "group": "Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "TRT Türkiye",
+    "url": "https://www.trthaber.com/turkiye_articles.rss",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "TRT Ekonomi",
+    "url": "https://www.trthaber.com/ekonomi_articles.rss",
+    "group": "Ekonomi",
+    "enabled": true
+  },
+  {
+    "name": "TRT Gündem",
+    "url": "https://www.trthaber.com/gundem_articles.rss",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "TRT Dünya",
+    "url": "https://www.trthaber.com/dunya_articles.rss",
+    "group": "Dünya",
+    "enabled": true
+  },
+  {
+    "name": "TRT Spor",
+    "url": "https://www.trthaber.com/spor_articles.rss",
+    "group": "Spor",
+    "enabled": true
+  },
+  {
+    "name": "TRT Teknoloji",
+    "url": "https://www.trthaber.com/bilim_teknoloji_articles.rss",
+    "group": "Teknoloji",
+    "enabled": true
+  },
+  {
+    "name": "Merhaba Haber Konya",
+    "url": "https://www.merhabahaber.com/service/rss.php?cid=141",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Konya'nın Sesi Yerel",
+    "url": "https://www.konyaninsesi.com.tr/rss/haberler/konya-haberleri/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Konya'nın Sesi Son Dakika",
+    "url": "https://www.konyaninsesi.com.tr/rss/sondakika/",
+    "group": "Konya Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "Yeni Haber Konya",
+    "url": "https://www.yenihaberden.com/rss/haberler/konya/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Yeni Haber Asayiş",
+    "url": "https://www.yenihaberden.com/rss/haberler/asayis/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Yeni Meram Konya",
+    "url": "https://www.yenimeram.com.tr/rss/haberler/konya/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Konya Ekspres Yerel",
+    "url": "https://www.konyaekspres.com/rss/category/yerel",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Merhaba Haber İlçeler",
+    "url": "https://www.merhabahaber.com/service/rss.php?cid=35",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Habertürk Manşet",
+    "url": "https://www.haberturk.com/rss/manset.xml",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Habertürk Ekonomi",
+    "url": "https://www.haberturk.com/rss/ekonomi.xml",
+    "group": "Ekonomi",
+    "enabled": true
+  },
+  {
+    "name": "Tarım Türk Mekanizasyon",
+    "url": "https://www.tarimturk.com.tr/rss/mekanizasyon.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "Tarım Türk Bitkisel Üretim",
+    "url": "https://www.tarimturk.com.tr/rss/bitkisel_uretim.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "Tarım Türk Hayvancılık",
+    "url": "https://www.tarimturk.com.tr/rss/hayvancilik.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "Eskil Gazetesi Tarım",
+    "url": "https://eskilgazetesi.com/rss/tarim.xml",
+    "group": "Tarım",
+    "enabled": true
+  },
+  {
+    "name": "AA Teyit Hattı",
+    "url": "https://www.aa.com.tr/tr/teyithatti/rss/news?cat=0",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Gazete Vatan Gündem",
+    "url": "https://www.gazetevatan.com/rss/gundem.xml",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Gazete Vatan Ekonomi",
+    "url": "https://www.gazetevatan.com/rss/ekonomi.xml",
+    "group": "Ekonomi",
+    "enabled": true
+  },
+  {
+    "name": "Mynet Son Dakika",
+    "url": "https://www.mynet.com/haber/rss/sondakika",
+    "group": "Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "Mynet Güncel",
+    "url": "https://www.mynet.com/haber/rss/kategori/guncel/",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Mynet Dünya",
+    "url": "https://www.mynet.com/haber/rss/kategori/dunya/",
+    "group": "Dünya",
+    "enabled": true
+  },
+  {
+    "name": "Hakimiyet Konya",
+    "url": "https://www.hakimiyet.com/rss/haberler/konya/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Hakimiyet Son Dakika",
+    "url": "https://www.hakimiyet.com/rss/sondakika/",
+    "group": "Konya Son Dakika",
+    "enabled": true
+  },
+  {
+    "name": "Hakimiyet Asayiş",
+    "url": "https://www.hakimiyet.com/rss/haberler/asayis/",
+    "group": "Konya",
+    "enabled": true
+  },
+  {
+    "name": "Haber Dairesi",
+    "url": "https://news.google.com/rss/search?q=site%3Ahaberdairesi.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://haberdairesi.com/",
+    "group": "Konya",
+    "enabled": true,
+    "note": "Önce HTML RSS keşfi, bulunamazsa Google Haberler site araması"
+  },
+  {
+    "name": "Konhaber",
+    "url": "https://news.google.com/rss/search?q=site%3Akonhaber.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.konhaber.com/",
+    "group": "Konya",
+    "enabled": true,
+    "note": "Önce HTML RSS keşfi, bulunamazsa Google Haberler site araması"
+  },
+  {
+    "name": "Konya Gündem",
+    "url": "https://news.google.com/rss/search?q=site%3Akonyagundem.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://konyagundem.com/",
+    "group": "Konya",
+    "enabled": true,
+    "note": "Önce HTML RSS keşfi, bulunamazsa Google Haberler site araması"
+  },
+  {
+    "name": "Milliyet",
+    "url": "https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml",
+    "homepage": "https://www.milliyet.com.tr/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Amilliyet.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "Akşam",
+    "url": "https://news.google.com/rss/search?q=site%3Aaksam.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.aksam.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Posta",
+    "url": "https://news.google.com/rss/search?q=site%3Aposta.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.posta.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Anayurt",
+    "url": "https://news.google.com/rss/search?q=site%3Aanayurtgazetesi.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.anayurtgazetesi.com/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Karar",
+    "url": "https://news.google.com/rss/search?q=site%3Akarar.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.karar.com/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Aydınlık",
+    "url": "https://news.google.com/rss/search?q=site%3Aaydinlik.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.aydinlik.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Sabah",
+    "url": "https://www.sabah.com.tr/rss/anasayfa.xml",
+    "homepage": "https://www.sabah.com.tr/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Asabah.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "Cumhuriyet",
+    "url": "https://www.cumhuriyet.com.tr/rss",
+    "homepage": "https://www.cumhuriyet.com.tr/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Acumhuriyet.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "Sözcü",
+    "url": "https://www.sozcu.com.tr/feeds-haberler",
+    "homepage": "https://www.sozcu.com.tr/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Asozcu.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "BirGün",
+    "url": "https://news.google.com/rss/search?q=site%3Abirgun.net&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.birgun.net/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Yeni Şafak",
+    "url": "https://www.yenisafak.com/rss?xml=gundem",
+    "homepage": "https://www.yenisafak.com/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Ayenisafak.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "Dünya",
+    "url": "https://www.dunya.com/rss?dunya",
+    "homepage": "https://www.dunya.com/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Adunya.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Ekonomi",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "Takvim",
+    "url": "https://news.google.com/rss/search?q=site%3Atakvim.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.takvim.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Fanatik",
+    "url": "https://news.google.com/rss/search?q=site%3Afanatik.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.fanatik.com.tr/",
+    "fallback_url": null,
+    "group": "Spor",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Türkiye Gazetesi",
+    "url": "https://news.google.com/rss/search?q=site%3Aturkiyegazetesi.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.turkiyegazetesi.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Fotomaç",
+    "url": "https://news.google.com/rss/search?q=site%3Afotomac.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.fotomac.com.tr/",
+    "fallback_url": null,
+    "group": "Spor",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Yeni Akit",
+    "url": "https://news.google.com/rss/search?q=site%3Ayeniakit.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.yeniakit.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Resmî Gazete",
+    "url": "https://news.google.com/rss/search?q=site%3Aresmigazete.gov.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.resmigazete.gov.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Resmî sitede doğrulanmış bir RSS bulunamadı; Google Haberler indeksleme sınırlarına tabidir. Resmî metin için doğrudan siteyi kullanın."
+  },
+  {
+    "name": "Yeni Asır",
+    "url": "https://news.google.com/rss/search?q=site%3Ayeniasir.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.yeniasir.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Diriliş Postası",
+    "url": "https://news.google.com/rss/search?q=site%3Adirilispostasi.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.dirilispostasi.com/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Yeni Asya",
+    "url": "https://news.google.com/rss/search?q=site%3Ayeniasya.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.yeniasya.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Hürriyet",
+    "url": "https://www.hurriyet.com.tr/rss/anasayfa",
+    "homepage": "https://www.hurriyet.com.tr/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Ahurriyet.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "Yeni Mesaj",
+    "url": "https://news.google.com/rss/search?q=site%3Ayenimesaj.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.yenimesaj.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Hürriyet Daily News",
+    "url": "https://news.google.com/rss/search?q=site%3Ahurriyetdailynews.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.hurriyetdailynews.com/",
+    "fallback_url": null,
+    "group": "Dünya",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Yeni Çağ",
+    "url": "https://news.google.com/rss/search?q=site%3Ayenicaggazetesi.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.yenicaggazetesi.com/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Milat",
+    "url": "https://news.google.com/rss/search?q=site%3Amilatgazetesi.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.milatgazetesi.com/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Yeni Söz",
+    "url": "https://www.yenisozgazetesi.com/rss/",
+    "homepage": "https://www.yenisozgazetesi.com/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Ayenisozgazetesi.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Gazetenin resmi RSS sayfası; yanıt RSS değilse Google Haberler yedeği"
+  },
+  {
+    "name": "Millî Gazete",
+    "url": "https://news.google.com/rss/search?q=site%3Amilligazete.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.milligazete.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Yeni Birlik",
+    "url": "https://news.google.com/rss/search?q=site%3Agazetebirlik.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.gazetebirlik.com/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Balkan Günlüğü",
+    "url": "https://news.google.com/rss/search?q=site%3Abalkangunlugu.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.balkangunlugu.com.tr/",
+    "fallback_url": null,
+    "group": "Dünya",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Doğru Haber",
+    "url": "https://news.google.com/rss/search?q=site%3Adogruhaber.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.dogruhaber.com.tr/",
+    "fallback_url": null,
+    "group": "Türkiye",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  },
+  {
+    "name": "Ensonhaber",
+    "url": "https://www.ensonhaber.com/rss/ensonhaber.xml",
+    "homepage": "https://www.ensonhaber.com/",
+    "fallback_url": "https://news.google.com/rss/search?q=site%3Aensonhaber.com&hl=tr&gl=TR&ceid=TR%3Atr",
+    "group": "Son Dakika",
+    "enabled": true,
+    "note": "Yayıncı RSS adresi; başarısız olursa Google Haberler yedeği"
+  },
+  {
+    "name": "Anadolu’da Bugün",
+    "url": "https://news.google.com/rss/search?q=site%3Aanadoludabugun.com.tr&hl=tr&gl=TR&ceid=TR%3Atr",
+    "homepage": "https://www.anadoludabugun.com.tr/",
+    "fallback_url": null,
+    "group": "Konya",
+    "enabled": true,
+    "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
+  }
+]

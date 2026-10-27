@@ -1,0 +1,32 @@
+[
+  {
+    "name": "TRT Haber Videoları",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBgTP2LOFVPmq15W-RH-WXA",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Demirören Haber Ajansı Videoları",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxdpqtb0HIOdH7RGyfgmJbA",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "Habertürk Videoları",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn6dNfiRE_Xunu7iMyvD7AA",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "CNN Türk Videoları",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV6zcRug6Hqp1UX_FdyUeBg",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
+    "name": "NTV Videoları",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9TDTjbOjFB9jADmPhSAPsw",
+    "group": "Türkiye",
+    "enabled": true
+  }
+]
