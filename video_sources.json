@@ -24,6 +24,12 @@
     "enabled": true
   },
   {
+    "name": "ANKA HABER AJANSI",
+    "url": "https://www.youtube.com/@ankahaberajans/videos",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
     "name": "NTV Videoları",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9TDTjbOjFB9jADmPhSAPsw",
     "group": "Türkiye",
