@@ -335,7 +335,7 @@
     "homepage": "https://www.turkiyegazetesi.com.tr/",
     "fallback_url": null,
     "group": "Türkiye",
-    "enabled": true,
+    "enabled": false,
     "note": "Yayıncı RSS keşfi; başarısız olursa Google Haberler site araması"
   },
   {
