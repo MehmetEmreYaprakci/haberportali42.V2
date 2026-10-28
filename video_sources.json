@@ -18,6 +18,12 @@
     "enabled": true
   },
   {
+    "name": "ANADOLU AJANSI",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVbZYhcirOke2vipxs4lT2w",
+    "group": "Türkiye",
+    "enabled": true
+  },
+  {
     "name": "CNN Türk Videoları",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV6zcRug6Hqp1UX_FdyUeBg",
     "group": "Türkiye",
